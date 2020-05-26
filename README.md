@@ -1,16 +1,17 @@
 # COVID-19 Tracker 
-_Lets break the chain__  
+__Lets break the chain__  
 This application displays the latest updates based on numbers from https://www.covid19india.org/
 
-<img src="header.png"/>
-
-
+<p align="center">
+  <img src="header.png">
+</p>
 
 ### Screenshots
-<img src="1.jpg" width="15%" /> <img src="screenshots/screenshot_1.png" width="15%" /> <img src="screenshots/screenshot_2.png" width="15%" />  <img src="screenshots/screenshot_3.png" width="15%" /> <img src="screenshots/screenshot_4.png" width="15%" /> <img src="screenshots/screenshot_5.png" width="15%" />
+<img src="screenshots/1.jpg" width="25%" /> <img src="screenshots/2.jpg" width="25%" />  <img src="screenshots/3.jpg" width="25%" /> <img src="screenshots/4.jpg" width="25%" /> 
 
 ## Required Permissions
     android.permission.INTERNET
+    android.permission.LOCATION
 
 ## Libraries
 - Kotlin
