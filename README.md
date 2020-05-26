@@ -4,9 +4,9 @@ This application displays the latest updates based on numbers from https://www.c
 
 <img src="header.png"/>
 
-<img src="screenshots/light_screenshot_1.png" width="15%" /> <img src="screenshots/light_screenshot_2.png" width="15%" /> <img src="screenshots/light_screenshot_3.png" width="15%" /> <img src="screenshots/light_screenshot_4.png" width="15%" /> <img src="screenshots/light_screenshot_5.png" width="15%" />
 
-### Dark Mode
+
+### Screenshots
 <img src="screenshots/screenshot_1.png" width="15%" /> <img src="screenshots/screenshot_2.png" width="15%" />  <img src="screenshots/screenshot_3.png" width="15%" /> <img src="screenshots/screenshot_4.png" width="15%" /> <img src="screenshots/screenshot_5.png" width="15%" />
 
 ## Required Permissions
