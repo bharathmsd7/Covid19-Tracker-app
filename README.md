@@ -7,7 +7,7 @@ This application displays the latest updates based on numbers from https://www.c
 
 
 ### Screenshots
-<img src="screenshots/screenshot_1.png" width="15%" /> <img src="screenshots/screenshot_2.png" width="15%" />  <img src="screenshots/screenshot_3.png" width="15%" /> <img src="screenshots/screenshot_4.png" width="15%" /> <img src="screenshots/screenshot_5.png" width="15%" />
+<img src="1.jpg" width="15%" /> <img src="screenshots/screenshot_1.png" width="15%" /> <img src="screenshots/screenshot_2.png" width="15%" />  <img src="screenshots/screenshot_3.png" width="15%" /> <img src="screenshots/screenshot_4.png" width="15%" /> <img src="screenshots/screenshot_5.png" width="15%" />
 
 ## Required Permissions
     android.permission.INTERNET
