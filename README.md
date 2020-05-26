@@ -1,6 +1,6 @@
 # COVID-19 Tracker 
 __Lets break the chain__  
-This application displays the latest updates based on numbers from https://www.covid19india.org/
+
 
 <p align="center">
   <img src="header.png">
@@ -22,3 +22,6 @@ This application displays the latest updates based on numbers from https://www.c
 - Kotlin Coroutines
 - Retrofit 2
 - Android Architecture Component
+
+### Thanks to covid19india.org team  
+This application displays the latest updates based on numbers from https://www.covid19india.org/
