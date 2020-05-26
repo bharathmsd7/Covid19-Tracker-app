@@ -6,7 +6,7 @@ This application displays the latest updates based on numbers from https://www.c
   <img src="header.png">
 </p>
 
-### Screenshots
+## Screenshots
 <img src="screenshots/1.jpg" width="20%" /> <img src="screenshots/2.jpg" width="20%" />  <img src="screenshots/3.jpg" width="20%" /> <img src="screenshots/4.jpg" width="20%" /> 
 
 ## Required Permissions
