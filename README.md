@@ -1,6 +1,7 @@
 # COVID-19 Tracker 
 __Lets break the chain__  
 
+__Download the Apk from here__    [Covid19.co](app-debug.apk)
 
 <p align="center">
   <img src="header.png">
